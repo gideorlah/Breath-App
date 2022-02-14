@@ -10,4 +10,4 @@ This is a simple breathe-relax application.
 I use Git for versioning.
 
 <h4> Authors </h4>
-Gideon Kibor
+gideorlah
